@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jptorres121&label=Profile%20views&color=0e75b6&style=flat" alt="jptorres121" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jptorres121" alt="jptorres121" /></a> </p>
-
 - 🌱 Actualmente estoy aprendiendo **Python, c++, MySQL, MONGO DB, Html y Css3**
 
-- 💬 Pregúntame sobre **React**
+- 💬 Pregúntame sobre **Html, Css3 y MySLQ**
 
 - 📫 Cómo contactarme **jptorres46@ucatolica.edu.co**
 
